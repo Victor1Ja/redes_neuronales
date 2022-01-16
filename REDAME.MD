@@ -1,1 +1,0 @@
-Respuesta al Primer Laboratorio de la Optativa Redes Neuronales
