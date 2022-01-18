@@ -1,2 +1,6 @@
-# redes_neuronales
-A set of neuronal link for beginners like me
+# Neural Networks
+A set of neuronal implementations for beginners like me
+##Logistic Regresion
+Used to Clasify betewen to classes
+[here](logistic_regresion)
+
