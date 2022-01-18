@@ -1,1 +1,4 @@
 .vscode
+/logistic_regresion/Day1.py
+.gitignore
+python_tests
