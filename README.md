@@ -4,3 +4,4 @@ A set of neuronal implementations for beginners like me
 Used to Clasify betewen to classes
 [here](logistic_regresion)
 
+ 
